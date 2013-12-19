@@ -52,16 +52,16 @@ ul.nav li a {
 }
 
 #new-cupcakes img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #d3d3d3;
   margin: 0 0 20px 0;
 }
 
 #featured-cupcake img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid #d3d3d3;
 }
 
 #copyright {
-  border-top: 8px solid #2A0400;
+  border-top: 8px solid #d3d3d3;
   padding: 10px 0px;
   margin: 15px 0px;
   text-align: center;
