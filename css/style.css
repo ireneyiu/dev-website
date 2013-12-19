@@ -12,6 +12,7 @@ a {
 h1 {
   font-size: 1.750em;
   letter-spacing: -1.5px;
+  line-height: 15px
 }
 
 h2 {
@@ -49,6 +50,7 @@ ul.nav li a {
 
 #intro {
   margin: 50px 0 75px 0;
+  text-align: center;
 }
 
 #new-cupcakes img {
@@ -67,11 +69,19 @@ ul.nav li a {
   text-align: center;
 }
 
+.bordered-image {
+  border: 8px solid #d3d3d3;
+}
 
+#self-portrait {
+  background-image: url('img/self.jpg');
+  width: 960px;
+  height: 340px;
+}
 
-
-
-
+.grid_12 {
+  text-align: center;
+}
 
 
 
