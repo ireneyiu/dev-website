@@ -1,6 +1,6 @@
 body {
   font-family: 'Nunito', sans-serif;
-  color: #FAF3BC;
+  color: #555555;
   background: #eeeeee url('img/ticks.png') repeat;
 }
 
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-size: 1.500em;
-  color: #B4C34F;
+  color: #73AC1D;
 }
 
 .btn {
@@ -44,7 +44,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-  color: #FAF3BC;
+  color: #73AC1D;
 }
 
 #intro {
