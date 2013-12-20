@@ -70,7 +70,10 @@ ul.nav li a {
   margin: 25px 0;
 }
 
-
+.grid_12 p {
+  font-size: 1.2em;
+  line-height: 2em;
+}
 
 
 
