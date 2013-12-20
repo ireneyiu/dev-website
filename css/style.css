@@ -48,20 +48,6 @@ ul.nav li a {
   color: #73AC1D;
 }
 
-#intro {
-  margin: 50px 0 75px 0;
-  text-align: center;
-}
-
-#new-cupcakes img {
-  border: 8px solid #d3d3d3;
-  margin: 0 0 20px 0;
-}
-
-#featured-cupcake img {
-  border: 8px solid #d3d3d3;
-}
-
 #copyright {
   border-top: 8px solid #d3d3d3;
   padding: 10px 0px;
@@ -81,6 +67,7 @@ ul.nav li a {
 
 .grid_12 {
   text-align: center;
+  margin: 25px 0;
 }
 
 
